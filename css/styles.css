@@ -515,6 +515,13 @@ footer .media {
   background-position: center;
 }
 
+.special-offers {
+  max-width: 980px;
+  height: 100%;
+  background-color: aquamarine;
+  margin: 0 auto;
+}
+
 .individual-tour {
   margin: 0 auto;
   max-width: 980px;

@@ -8,14 +8,16 @@
 @import "form/booking-form.scss";
 @import "footer/footer.scss";
 
+//other pages linked here
 @import "about.scss";
-
 @import "tour.scss";
 @import "tour-backgrounds.scss";
 
-// pages of the individual tours
-
-//template
+@import "special-offers/special-offers.scss";
+@import "contact/contact.scss";
+@import "blog/blog.scss";
+//pages of the individual tours
+//template for tour packages
 @import "tours/template-tour.scss";
 //background images
 @import "tours/israel-tour.scss";
