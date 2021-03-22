@@ -518,8 +518,30 @@ footer .media {
 .special-offers {
   max-width: 980px;
   height: 100%;
-  background-color: aquamarine;
   margin: 0 auto;
+  padding-top: 55.5px;
+  display: flex;
+  flex-direction: column;
+}
+.special-offers .title {
+  margin-bottom: 35.5px;
+}
+.special-offers .title h3 {
+  font-family: Proxima;
+  font-weight: lighter;
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+.special-offers .title hr {
+  width: 199px;
+  height: 3px;
+  background-color: black;
+  margin-top: -10px;
+}
+.special-offers .offer-container {
+  background-color: burlywood;
+  width: 100%;
+  height: 30px;
 }
 
 .individual-tour {
